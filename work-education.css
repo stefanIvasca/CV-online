@@ -46,13 +46,28 @@
   margin-right: 10px;
 }
 
-.work-section-1 {
+.work-section-1,
+.work-section-first,
+.work-section-second,
+.work-section-third,
+.work-section-fourth {
   margin: 0px 20px 20px 20px;
   border: 1px solid rgb(221, 221, 221);
   border-left: 0;
   border-right: 0;
   border-top: 0;
   padding-bottom: 15px;
+}
+
+.work-section-first,
+.work-section-second,
+.work-section-third{
+  border:0;
+}
+
+.work-section-fourth{
+  border: 0;
+  margin-bottom: 0;
 }
 
 .work-experience-p {
