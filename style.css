@@ -1,53 +1,14 @@
-
-.personal-info {
-  max-width: 350px;
-  min-width: 220px;
-  margin-right:20px;
-  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.15),
-    -5px -5px 10px rgba(0, 0, 0, 0.15);
-  border-radius: 6px;
-}
-
 .work-education {
   min-width: 340px;
   border-radius: 6px;
   max-width: 1500px;
 }
 
-.my-image {
-  width: 100%;
-  border-radius: 6px 6px 0 0;
-
-}
-
-.name {
-  font-size: 25px;
-  font-weight: bold;
-  margin-left: 10px;
-  margin-bottom: 20px;
-}
-
-.info {
-  display: flex;
-  margin-left: 10px;
-  margin-bottom: 18px;
-  color: rgb(78, 78, 78);
-  align-items: center;
-}
-
-.icon {
-  width: 20px;
-  height: 20px;
-  margin-right: 10px;
-}
-
-
 .work {
   border-radius: 6px;
   margin-bottom: 20px;
   box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.15),
     -5px -5px 10px rgba(0, 0, 0, 0.15);
-
 }
 
 .education {
@@ -60,50 +21,6 @@
   width: 20px;
   height: 20px;
   margin-right: 10px;
-}
-
-.skills-line {
-  display: flex;
-  margin-left: 10px;
-  border-style: solid;
-  border-width: 1px;
-  border-left: 0;
-  border-right: 0;
-  border-bottom: 0;
-  border-color: rgb(221, 221, 221);
-  margin-right: 10px;
-  padding-top: 15px;
-  margin-top: 35px;
-
-}
-
-.skills {
-  font-size: 18px;
-  color: rgb(78, 78, 78);
-  font-weight: bold;
-}
-
-.bar {
-  background-color: #009688;
-  width: 90%;
-  color: white;
-  text-align: center;
-  border-radius: 11px;
-  font-size: 12px;
-  padding-top: 4px;
-  padding-bottom: 4px;
-  margin-top: 3px;
-
-}
-
-.skill-bars {
-  margin-left: 10px;
-  margin-right: 10px;
-  border-left: 0;
-  border-top: 0;
-  border-bottom: 0;
-  border-color: rgb(211, 211, 211);
-  margin-top: 15px;
 }
 
 .work-icon {
@@ -139,7 +56,6 @@
   border-top: 0;
   border-color: rgb(221, 221, 221);
   padding-bottom: 15px;
-
 }
 
 .work-experience-p {
@@ -184,7 +100,6 @@
   box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.15),
     -5px -5px 10px rgba(0, 0, 0, 0.15);
 }
-
 
 ul {
   list-style: none;
