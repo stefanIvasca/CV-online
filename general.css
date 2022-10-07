@@ -18,12 +18,13 @@ p {
   }
 
   .personal-info{
-    max-width: 450px;
+    max-width: 420px;
+    min-width: 180px;
     margin-bottom: 20px;
     margin-right: 0;
-    min-width: 180px;
+    
   }
-  
+
   .work-education{
     max-width: 450px;
     min-width: 180px
