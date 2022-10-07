@@ -51,9 +51,20 @@
   font-weight: bold;
 }
 
-.bar {
+.bar0,
+.bar1,
+.bar2,
+.bar3,
+.bar4,
+.bar5,
+.bar6,
+.bar7,
+.bar8,
+.bar-ro,
+.bar-en,
+.bar-fr,
+.bar-gr {
   background-color: #009688;
-  width: 90%;
   color: white;
   text-align: center;
   border-radius: 11px;
@@ -62,6 +73,55 @@
   margin-top: 3px;
 }
 
+.bar0,
+.bar1{
+  width:90%;
+}
+
+.bar2{
+  width:80%;
+}
+
+.bar3,
+.bar4{
+  width:60%;
+}
+
+.bar5{
+  width: 30%;
+}
+
+.bar6,
+.bar7{
+  width: 20%;
+}
+
+.bar8{
+  width: 15%;
+}
+
+.bar-ro{
+  width: 100%;
+}
+
+.bar-en{
+  width: 90%;
+}
+
+.bar-fr{
+  width: 15%;
+}
+
+.bar-gr{
+  width: 10%;
+  margin-bottom: 15px;
+}
 .skill-bars {
   margin: 15px 10px 0px 10px;
+}
+
+.linkedin-link{
+  font-family: Roboto, Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  margin:0; color:rgb(78, 78, 78);
 }
