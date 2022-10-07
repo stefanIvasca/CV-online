@@ -1,0 +1,118 @@
+.work-education {
+  min-width: 340px;
+  border-radius: 6px;
+  max-width: 1500px;
+}
+
+.work {
+  border-radius: 6px;
+  margin-bottom: 20px;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.15),
+    -5px -5px 10px rgba(0, 0, 0, 0.15);
+}
+
+.education {
+  border-radius: 6px;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.15),
+    -5px -5px 10px rgba(0, 0, 0, 0.15);
+}
+
+.star-icon {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+
+.work-icon {
+  width: 25px;
+  height: 25px;
+  margin-right: 10px
+}
+
+.work-section-title {
+  display: flex;
+  padding: 20px;
+  align-items: center;
+}
+
+.work-experience {
+  font-size: 25px;
+  color: #4e4e4e;
+}
+
+.calendar-icon {
+  width: 20px;
+  height: 20px;
+}
+
+.work-section-1 {
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  border-style: solid;
+  border-width: 1px;
+  border-left: 0;
+  border-right: 0;
+  border-top: 0;
+  border-color: rgb(221, 221, 221);
+  padding-bottom: 15px;
+}
+
+.work-experience-p {
+  font-size: 20px;
+  font-weight: bold;
+  color: #4e4e4e;
+  margin-bottom: 8px;
+}
+
+.date-1 {
+  display: flex;
+  color: #009688;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.calendar-icon {
+  margin-right: 10px;
+}
+
+.current {
+  background-color: #009688;
+  color: white;
+  padding: 3px 6px;
+  border-radius: 5px;
+}
+
+.work-section-informations {
+  line-height: 23px;
+  margin-left: 0px;
+  text-indent: 30px;
+}
+
+.projects {
+  border-radius: 6px;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.15),
+    -5px -5px 10px rgba(0, 0, 0, 0.15);
+}
+
+.others {
+  border-radius: 6px;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.15),
+    -5px -5px 10px rgba(0, 0, 0, 0.15);
+}
+
+ul {
+  list-style: none;
+  font-family: Roboto, Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 23px;
+}
+
+ul li::before {
+  content: "\2022";
+  color: #009688;
+  font-weight: bold;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
