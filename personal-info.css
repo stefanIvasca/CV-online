@@ -84,14 +84,17 @@
 
 .bar3,
 .bar4{
-  width:60%;
+  width:70%;
 }
 
 .bar5{
-  width: 30%;
+  width: 40%;
 }
 
-.bar6,
+.bar6{
+  width: 25%;
+}
+
 .bar7{
   width: 15%;
 }
